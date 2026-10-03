@@ -1,0 +1,42 @@
+{
+  "NORMAL": {
+    "time": 30.0,
+    "generated": 300,
+    "completed": 298,
+    "rejected": 0,
+    "expired": 0,
+    "queued": 0,
+    "active": 2,
+    "p95_ms": 200.0
+  },
+  "OVERLOAD": {
+    "time": 30.0,
+    "generated": 900,
+    "completed": 596,
+    "rejected": 0,
+    "expired": 0,
+    "queued": 300,
+    "active": 4,
+    "p95_ms": 9600.0
+  },
+  "BOUNDED": {
+    "time": 30.0,
+    "generated": 900,
+    "completed": 596,
+    "rejected": 290,
+    "expired": 0,
+    "queued": 10,
+    "active": 4,
+    "p95_ms": 700.0
+  },
+  "LIMITED": {
+    "time": 30.0,
+    "generated": 900,
+    "completed": 447,
+    "rejected": 450,
+    "expired": 0,
+    "queued": 0,
+    "active": 3,
+    "p95_ms": 200.0
+  }
+}

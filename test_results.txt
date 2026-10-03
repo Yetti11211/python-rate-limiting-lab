@@ -1,0 +1,13 @@
+test_arrivals (test_model.ModelTests.test_arrivals) ... ok
+test_bounded_queue (test_model.ModelTests.test_bounded_queue) ... ok
+test_conservation_all_steps (test_model.ModelTests.test_conservation_all_steps) ... ok
+test_deadline (test_model.ModelTests.test_deadline) ... ok
+test_invalid_config (test_model.ModelTests.test_invalid_config) ... ok
+test_limiter_keeps_queue_empty (test_model.ModelTests.test_limiter_keeps_queue_empty) ... ok
+test_normal_response (test_model.ModelTests.test_normal_response) ... ok
+test_overload_backlog (test_model.ModelTests.test_overload_backlog) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.023s
+
+OK
